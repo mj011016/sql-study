@@ -9,9 +9,8 @@ SQL 스터디 기록
     <td align="center"><a href="https://github.com/JSH0905"><img src="https://avatars.githubusercontent.com/u/90747413?v=4" width="120px;" alt=""/><br /><sub><b>정성훈</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/yj9120"><img src="https://avatars.githubusercontent.com/u/113438709?v=4" width="120px;" alt=""/><br /><sub><b>이예진</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/emoving"><img src="https://avatars.githubusercontent.com/u/82428892?v=4" width="120px;" alt=""/><br /><sub><b>박민지</b></sub></a><br /></td>
-<!-- 
-    <td align="center"><a href="https://github.com/unknown"><img src="https://avatars.githubusercontent.com/u/123123123?v=4" width="120px;" alt=""/><br /><sub><b>서지태</b></sub></a><br /></td>
--->
+    <td align="center"><a href="https://github.com/Seojitae"><img src="https://avatars.githubusercontent.com/u/134957710?v=4" width="120px;" alt=""/><br /><sub><b>서지태</b></sub></a><br /></td>
+
   </tr>
 </table>
 
